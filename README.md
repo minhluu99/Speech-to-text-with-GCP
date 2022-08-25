@@ -1,1 +1,1 @@
-# Speech-to-text-with-GCP
+# Transcribe-Audio-to-Text-with-Split-Function
